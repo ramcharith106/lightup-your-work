@@ -24,13 +24,13 @@ export const Hero = () => {
           <h1 className="text-6xl md:text-8xl font-bold mb-6">
             <span className="gradient-text">Hello, I'm</span>
             <br />
-            <span className="text-foreground">Alex Johnson</span>
+            <span className="text-foreground">Sangeet Gautam</span>
           </h1>
         </div>
         
         <p className="text-xl md:text-2xl mb-8 text-muted-foreground max-w-2xl mx-auto leading-relaxed">
-          Creative Developer & Designer crafting beautiful digital experiences 
-          with modern technologies and innovative solutions.
+          AI Engineer | Data Scientist | Organizational Leadership Trainee crafting intelligent solutions 
+          that unlock new dimensions of potential with AI & Machine Learning.
         </p>
         
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">

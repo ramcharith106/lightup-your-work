@@ -2,12 +2,14 @@ import { Card } from "@/components/ui/card";
 
 export const About = () => {
   const skills = [
-    { name: "React", level: 95 },
-    { name: "TypeScript", level: 90 },
-    { name: "Node.js", level: 85 },
-    { name: "UI/UX Design", level: 80 },
-    { name: "Python", level: 75 },
-    { name: "GraphQL", level: 70 }
+    { name: "Machine Learning", level: 95 },
+    { name: "Artificial Intelligence", level: 90 },
+    { name: "Data Analytics", level: 88 },
+    { name: "Python", level: 85 },
+    { name: "K-means Clustering", level: 82 },
+    { name: "Bagging Classifier", level: 80 },
+    { name: "Data Scaling", level: 78 },
+    { name: "Cloud Technology", level: 75 }
   ];
 
   return (
@@ -28,15 +30,15 @@ export const About = () => {
             <Card className="glass-card p-8 hover-lift">
               <h3 className="text-2xl font-bold mb-4 gradient-text">My Journey</h3>
               <p className="text-lg leading-relaxed mb-4">
-                With over 5 years of experience in web development and design, 
-                I specialize in creating modern, responsive applications that 
-                deliver exceptional user experiences.
+                In the infinite expanse of technological advancement, I am a forward-thinking 
+                innovator dedicated to harnessing the transformative power of Artificial 
+                Intelligence and Machine Learning. My mission is to reshape the global 
+                landscape by crafting intelligent solutions.
               </p>
               <p className="text-lg leading-relaxed">
-                I'm passionate about clean code, innovative solutions, and 
-                staying at the forefront of technology trends. When I'm not 
-                coding, you'll find me exploring new design concepts or 
-                contributing to open-source projects.
+                With an exceptional educational foundation from the Great Lakes Institute 
+                of Management and The University of Texas at Austin's McCombs School of Business, 
+                I blend business acumen with technical expertise to drive innovation in AI/ML.
               </p>
             </Card>
           </div>

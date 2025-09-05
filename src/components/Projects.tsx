@@ -6,28 +6,28 @@ export const Projects = () => {
   const projects = [
     {
       id: 1,
-      title: "E-Commerce Platform",
-      description: "Modern e-commerce solution with React, Node.js, and Stripe integration. Features include real-time inventory, user authentication, and responsive design.",
-      tech: ["React", "Node.js", "MongoDB", "Stripe"],
-      image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+      title: "AI/ML Capstone Project",
+      description: "Live capstone project combining 240 hours of domain training with hands-on AI/ML implementation. Developed intelligent solutions using machine learning algorithms and data analytics.",
+      tech: ["Python", "Machine Learning", "Data Analytics", "AI"],
+      image: "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&q=80",
       liveUrl: "#",
       githubUrl: "#"
     },
     {
       id: 2,
-      title: "Task Management App",
-      description: "Collaborative project management tool with real-time updates, drag-and-drop functionality, and team collaboration features.",
-      tech: ["Vue.js", "Firebase", "Vuetify", "WebSocket"],
-      image: "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=800&q=80",
+      title: "Cloud Security Implementation",
+      description: "Comprehensive cloud technology and information security project focusing on server administration and data protection protocols.",
+      tech: ["Cloud Technology", "Security", "Server Admin", "AWS"],
+      image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80",
       liveUrl: "#",
       githubUrl: "#"
     },
     {
       id: 3,
-      title: "Weather Dashboard",
-      description: "Beautiful weather application with location-based forecasts, interactive maps, and detailed weather analytics.",
-      tech: ["React", "OpenWeather API", "Chart.js", "Tailwind"],
-      image: "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=800&q=80",
+      title: "Data Clustering Analysis",
+      description: "Advanced data science project implementing k-means clustering and bagging classifiers for pattern recognition and predictive analytics.",
+      tech: ["Python", "K-means", "Bagging Classifier", "Data Scaling"],
+      image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80",
       liveUrl: "#",
       githubUrl: "#"
     }
